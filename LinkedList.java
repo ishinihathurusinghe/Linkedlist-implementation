@@ -1,4 +1,4 @@
-  public class LinkedList{
+   public class LinkedList{
     public static void main(String arg[]){
         ListNode l1 = new ListNode();
         l1.front(20);
